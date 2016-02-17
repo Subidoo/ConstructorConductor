@@ -59,9 +59,9 @@ quizUsers.push(new QuizUser('Austin', 'austin@gmail.com', 'Iwin'));
 //Fill in the rest of the required data as you see appropriate.
 
   //code here
-questions.push(new Questions());
-questions.push(new Questions());
-questions.push(new Questions());
+questions.push(new Questions('first', F);
+questions.push(new Questions('second', F);
+questions.push(new Questions('third', T);
 
 //Now push all of your instances of Question into the questions Array
 
